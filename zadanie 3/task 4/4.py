@@ -103,3 +103,4 @@ with open(stats_filepath, 'w', encoding='utf-8') as stats_file:
 label_frequency_filepath = os.path.join('results', 'label_frequency.json')
 with open(label_frequency_filepath, 'w', encoding='utf-8') as label_frequency_file:
     json.dump(label_frequency, label_frequency_file, ensure_ascii=False, indent=2)
+
