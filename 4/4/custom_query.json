@@ -1,0 +1,34 @@
+[
+  {
+    "City": "Баку",
+    "Average_Price": 17.8152
+  },
+  {
+    "City": "Вильявисиоса",
+    "Average_Price": 44.65525
+  },
+  {
+    "City": "Киев",
+    "Average_Price": 207.44299999999998
+  },
+  {
+    "City": "Кордова",
+    "Average_Price": 72.657
+  },
+  {
+    "City": "Монсон",
+    "Average_Price": 113.738
+  },
+  {
+    "City": "Овьедо",
+    "Average_Price": 41.605
+  },
+  {
+    "City": "Фигерас",
+    "Average_Price": 25.56
+  },
+  {
+    "City": "Хихон",
+    "Average_Price": 56.61
+  }
+]
