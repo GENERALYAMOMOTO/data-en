@@ -1,0 +1,1794 @@
+[
+  {
+    "_id": "65b14b5d2dc386e18d0acc8e",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": "1993",
+    "Director": "Steven Spielberg",
+    "Rating": "8.9"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0acc8f",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": "8.8"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0acc92",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Frank Darabont",
+    "Rating": "9.3"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0acc95",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "David Fincher",
+    "Rating": "8.8"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0acc9b",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": "2010",
+    "Director": "David Fincher",
+    "Rating": "7.7"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0acc9e",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": "2013",
+    "Director": "Baz Luhrmann",
+    "Rating": "7.2"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0acca2",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": "8.8"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0acca8",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": "1942",
+    "Director": "Michael Curtiz",
+    "Rating": "8.5"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accaa",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": "8.8"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accb3",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "M. Night Shyamalan",
+    "Rating": "8.1"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accb4",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": "8.8"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accb7",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": "1939",
+    "Director": "Victor Fleming",
+    "Rating": "8.1"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accb8",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": "2004",
+    "Director": "Michel Gondry",
+    "Rating": "8.3"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accbc",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": "2018",
+    "Director": "Peter Farrelly",
+    "Rating": "8.2"
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accc1",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": 1993,
+    "Director": "Steven Spielberg",
+    "Rating": 10.4
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accc2",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accc5",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Frank Darabont",
+    "Rating": 10.8
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accc8",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "David Fincher",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accce",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": 2010,
+    "Director": "David Fincher",
+    "Rating": 9.2
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accd1",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": 2013,
+    "Director": "Baz Luhrmann",
+    "Rating": 8.7
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accd5",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accdb",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": 1942,
+    "Director": "Michael Curtiz",
+    "Rating": 10.0
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accdd",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0acce6",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "M. Night Shyamalan",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0acce7",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accea",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": 1939,
+    "Director": "Victor Fleming",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0acceb",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": 2004,
+    "Director": "Michel Gondry",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14b5d2dc386e18d0accef",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": 2018,
+    "Director": "Peter Farrelly",
+    "Rating": 9.7
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d1a",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": "1993",
+    "Director": "Steven Spielberg",
+    "Rating": 10.4
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d1b",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d1e",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Frank Darabont",
+    "Rating": 10.8
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d21",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "David Fincher",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d27",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": "2010",
+    "Director": "David Fincher",
+    "Rating": 9.2
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d2a",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": "2013",
+    "Director": "Baz Luhrmann",
+    "Rating": 8.7
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d2e",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d34",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": "1942",
+    "Director": "Michael Curtiz",
+    "Rating": 10.0
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d36",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d3f",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "M. Night Shyamalan",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d40",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d43",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": "1939",
+    "Director": "Victor Fleming",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d44",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": "2004",
+    "Director": "Michel Gondry",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d48",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": "2018",
+    "Director": "Peter Farrelly",
+    "Rating": 9.7
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d4d",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": 1993,
+    "Director": "Steven Spielberg",
+    "Rating": 10.4
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d4e",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d51",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Frank Darabont",
+    "Rating": 10.8
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d54",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "David Fincher",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d5a",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": 2010,
+    "Director": "David Fincher",
+    "Rating": 9.2
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d5d",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": 2013,
+    "Director": "Baz Luhrmann",
+    "Rating": 8.7
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d61",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d67",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": 1942,
+    "Director": "Michael Curtiz",
+    "Rating": 10.0
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d69",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d72",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "M. Night Shyamalan",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d73",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d76",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": 1939,
+    "Director": "Victor Fleming",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d77",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": 2004,
+    "Director": "Michel Gondry",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14bfac1001aaa6c038d7b",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": 2018,
+    "Director": "Peter Farrelly",
+    "Rating": 9.7
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b82c",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": "1993",
+    "Director": "Steven Spielberg",
+    "Rating": 10.4
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b82d",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b830",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Frank Darabont",
+    "Rating": 10.8
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b833",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "David Fincher",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b839",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": "2010",
+    "Director": "David Fincher",
+    "Rating": 9.2
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b83c",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": "2013",
+    "Director": "Baz Luhrmann",
+    "Rating": 8.7
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b840",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b846",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": "1942",
+    "Director": "Michael Curtiz",
+    "Rating": 10.0
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b848",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b851",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "M. Night Shyamalan",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b852",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b855",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": "1939",
+    "Director": "Victor Fleming",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b856",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": "2004",
+    "Director": "Michel Gondry",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b85a",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": "2018",
+    "Director": "Peter Farrelly",
+    "Rating": 9.7
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b85f",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": 1993,
+    "Director": "Steven Spielberg",
+    "Rating": 10.4
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b860",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b863",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Frank Darabont",
+    "Rating": 10.8
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b866",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "David Fincher",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b86c",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": 2010,
+    "Director": "David Fincher",
+    "Rating": 9.2
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b86f",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": 2013,
+    "Director": "Baz Luhrmann",
+    "Rating": 8.7
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b873",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b879",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": 1942,
+    "Director": "Michael Curtiz",
+    "Rating": 10.0
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b87b",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b884",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "M. Night Shyamalan",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b885",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b888",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": 1939,
+    "Director": "Victor Fleming",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b889",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": 2004,
+    "Director": "Michel Gondry",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14cab2f16030f5f64b88d",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": 2018,
+    "Director": "Peter Farrelly",
+    "Rating": 9.7
+  },
+  {
+    "_id": "65b14d55910266fde437c4de",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": "1993",
+    "Director": "Steven Spielberg",
+    "Rating": 10.4
+  },
+  {
+    "_id": "65b14d55910266fde437c4df",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14d55910266fde437c4e2",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Frank Darabont",
+    "Rating": 10.8
+  },
+  {
+    "_id": "65b14d55910266fde437c4e5",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "David Fincher",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14d55910266fde437c4eb",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": "2010",
+    "Director": "David Fincher",
+    "Rating": 9.2
+  },
+  {
+    "_id": "65b14d55910266fde437c4ee",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": "2013",
+    "Director": "Baz Luhrmann",
+    "Rating": 8.7
+  },
+  {
+    "_id": "65b14d55910266fde437c4f2",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14d55910266fde437c4f8",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": "1942",
+    "Director": "Michael Curtiz",
+    "Rating": 10.0
+  },
+  {
+    "_id": "65b14d55910266fde437c4fa",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14d55910266fde437c503",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "M. Night Shyamalan",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14d55910266fde437c504",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14d55910266fde437c507",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": "1939",
+    "Director": "Victor Fleming",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14d55910266fde437c508",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": "2004",
+    "Director": "Michel Gondry",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14d55910266fde437c50c",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": "2018",
+    "Director": "Peter Farrelly",
+    "Rating": 9.7
+  },
+  {
+    "_id": "65b14d55910266fde437c511",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": 1993,
+    "Director": "Steven Spielberg",
+    "Rating": 10.4
+  },
+  {
+    "_id": "65b14d55910266fde437c512",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14d55910266fde437c515",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Frank Darabont",
+    "Rating": 10.8
+  },
+  {
+    "_id": "65b14d55910266fde437c518",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "David Fincher",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14d55910266fde437c51e",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": 2010,
+    "Director": "David Fincher",
+    "Rating": 9.2
+  },
+  {
+    "_id": "65b14d55910266fde437c521",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": 2013,
+    "Director": "Baz Luhrmann",
+    "Rating": 8.7
+  },
+  {
+    "_id": "65b14d55910266fde437c525",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14d55910266fde437c52b",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": 1942,
+    "Director": "Michael Curtiz",
+    "Rating": 10.0
+  },
+  {
+    "_id": "65b14d55910266fde437c52d",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14d55910266fde437c536",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "M. Night Shyamalan",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14d55910266fde437c537",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14d55910266fde437c53a",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": 1939,
+    "Director": "Victor Fleming",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14d55910266fde437c53b",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": 2004,
+    "Director": "Michel Gondry",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14d55910266fde437c53f",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": 2018,
+    "Director": "Peter Farrelly",
+    "Rating": 9.7
+  },
+  {
+    "_id": "65b14dae8062d677c6acff8c",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": "1993",
+    "Director": "Steven Spielberg",
+    "Rating": 10.4
+  },
+  {
+    "_id": "65b14dae8062d677c6acff8d",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14dae8062d677c6acff90",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Frank Darabont",
+    "Rating": 10.8
+  },
+  {
+    "_id": "65b14dae8062d677c6acff93",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "David Fincher",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14dae8062d677c6acff99",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": "2010",
+    "Director": "David Fincher",
+    "Rating": 9.2
+  },
+  {
+    "_id": "65b14dae8062d677c6acff9c",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": "2013",
+    "Director": "Baz Luhrmann",
+    "Rating": 8.7
+  },
+  {
+    "_id": "65b14dae8062d677c6acffa0",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14dae8062d677c6acffa6",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": "1942",
+    "Director": "Michael Curtiz",
+    "Rating": 10.0
+  },
+  {
+    "_id": "65b14dae8062d677c6acffa8",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14dae8062d677c6acffb1",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "M. Night Shyamalan",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14dae8062d677c6acffb2",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14dae8062d677c6acffb5",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": "1939",
+    "Director": "Victor Fleming",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14dae8062d677c6acffb6",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": "2004",
+    "Director": "Michel Gondry",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14dae8062d677c6acffba",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": "2018",
+    "Director": "Peter Farrelly",
+    "Rating": 9.7
+  },
+  {
+    "_id": "65b14dae8062d677c6acffbf",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": 1993,
+    "Director": "Steven Spielberg",
+    "Rating": 10.4
+  },
+  {
+    "_id": "65b14dae8062d677c6acffc0",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14dae8062d677c6acffc3",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Frank Darabont",
+    "Rating": 10.8
+  },
+  {
+    "_id": "65b14dae8062d677c6acffc6",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "David Fincher",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14dae8062d677c6acffcc",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": 2010,
+    "Director": "David Fincher",
+    "Rating": 9.2
+  },
+  {
+    "_id": "65b14dae8062d677c6acffcf",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": 2013,
+    "Director": "Baz Luhrmann",
+    "Rating": 8.7
+  },
+  {
+    "_id": "65b14dae8062d677c6acffd3",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14dae8062d677c6acffd9",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": 1942,
+    "Director": "Michael Curtiz",
+    "Rating": 10.0
+  },
+  {
+    "_id": "65b14dae8062d677c6acffdb",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14dae8062d677c6acffe4",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "M. Night Shyamalan",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14dae8062d677c6acffe5",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14dae8062d677c6acffe8",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": 1939,
+    "Director": "Victor Fleming",
+    "Rating": 9.6
+  },
+  {
+    "_id": "65b14dae8062d677c6acffe9",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": 2004,
+    "Director": "Michel Gondry",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14dae8062d677c6acffed",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": 2018,
+    "Director": "Peter Farrelly",
+    "Rating": 9.7
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22540",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": "1993",
+    "Director": "Steven Spielberg",
+    "Rating": 9.9
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22541",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22544",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Frank Darabont",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22547",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "David Fincher",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14df92a1ff4668ec2254d",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": "2010",
+    "Director": "David Fincher",
+    "Rating": 8.7
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22550",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": "2013",
+    "Director": "Baz Luhrmann",
+    "Rating": 8.2
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22554",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14df92a1ff4668ec2255a",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": "1942",
+    "Director": "Michael Curtiz",
+    "Rating": 9.5
+  },
+  {
+    "_id": "65b14df92a1ff4668ec2255c",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22565",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "M. Night Shyamalan",
+    "Rating": 9.1
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22566",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22569",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": "1939",
+    "Director": "Victor Fleming",
+    "Rating": 9.1
+  },
+  {
+    "_id": "65b14df92a1ff4668ec2256a",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": "2004",
+    "Director": "Michel Gondry",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14df92a1ff4668ec2256e",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": "2018",
+    "Director": "Peter Farrelly",
+    "Rating": 9.2
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22573",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": 1993,
+    "Director": "Steven Spielberg",
+    "Rating": 9.9
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22574",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22577",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Frank Darabont",
+    "Rating": 10.3
+  },
+  {
+    "_id": "65b14df92a1ff4668ec2257a",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "David Fincher",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22580",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": 2010,
+    "Director": "David Fincher",
+    "Rating": 8.7
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22583",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": 2013,
+    "Director": "Baz Luhrmann",
+    "Rating": 8.2
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22587",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14df92a1ff4668ec2258d",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": 1942,
+    "Director": "Michael Curtiz",
+    "Rating": 9.5
+  },
+  {
+    "_id": "65b14df92a1ff4668ec2258f",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22598",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "M. Night Shyamalan",
+    "Rating": 9.1
+  },
+  {
+    "_id": "65b14df92a1ff4668ec22599",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14df92a1ff4668ec2259c",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": 1939,
+    "Director": "Victor Fleming",
+    "Rating": 9.1
+  },
+  {
+    "_id": "65b14df92a1ff4668ec2259d",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": 2004,
+    "Director": "Michel Gondry",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14df92a1ff4668ec225a1",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": 2018,
+    "Director": "Peter Farrelly",
+    "Rating": 9.2
+  },
+  {
+    "_id": "65b14e46ae58fd3fa424357d",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": "1993",
+    "Director": "Steven Spielberg",
+    "Rating": 9.4
+  },
+  {
+    "_id": "65b14e46ae58fd3fa424357e",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14e46ae58fd3fa4243581",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Frank Darabont",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14e46ae58fd3fa4243584",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "David Fincher",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14e46ae58fd3fa424358a",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": "2010",
+    "Director": "David Fincher",
+    "Rating": 8.2
+  },
+  {
+    "_id": "65b14e46ae58fd3fa424358d",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": "2013",
+    "Director": "Baz Luhrmann",
+    "Rating": 7.7
+  },
+  {
+    "_id": "65b14e46ae58fd3fa4243591",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14e46ae58fd3fa4243597",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": "1942",
+    "Director": "Michael Curtiz",
+    "Rating": 9.0
+  },
+  {
+    "_id": "65b14e46ae58fd3fa4243599",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435a2",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "M. Night Shyamalan",
+    "Rating": 8.6
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435a3",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435a6",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": "1939",
+    "Director": "Victor Fleming",
+    "Rating": 8.6
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435a7",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": "2004",
+    "Director": "Michel Gondry",
+    "Rating": 8.8
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435ab",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": "2018",
+    "Director": "Peter Farrelly",
+    "Rating": 8.7
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435b0",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": 1993,
+    "Director": "Steven Spielberg",
+    "Rating": 9.4
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435b1",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435b4",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Frank Darabont",
+    "Rating": 9.8
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435b7",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "David Fincher",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435bd",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": 2010,
+    "Director": "David Fincher",
+    "Rating": 8.2
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435c0",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": 2013,
+    "Director": "Baz Luhrmann",
+    "Rating": 7.7
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435c4",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435ca",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": 1942,
+    "Director": "Michael Curtiz",
+    "Rating": 9.0
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435cc",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435d5",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "M. Night Shyamalan",
+    "Rating": 8.6
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435d6",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435d9",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": 1939,
+    "Director": "Victor Fleming",
+    "Rating": 8.6
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435da",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": 2004,
+    "Director": "Michel Gondry",
+    "Rating": 8.8
+  },
+  {
+    "_id": "65b14e46ae58fd3fa42435de",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": 2018,
+    "Director": "Peter Farrelly",
+    "Rating": 8.7
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed8982",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": "1993",
+    "Director": "Steven Spielberg",
+    "Rating": 8.9
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed8983",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 8.8
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed8986",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Frank Darabont",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed8989",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "David Fincher",
+    "Rating": 8.8
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed898f",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": "2010",
+    "Director": "David Fincher",
+    "Rating": 7.7
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed8992",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": "2013",
+    "Director": "Baz Luhrmann",
+    "Rating": 7.2
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed8996",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 8.8
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed899c",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": "1942",
+    "Director": "Michael Curtiz",
+    "Rating": 8.5
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed899e",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 8.8
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89a7",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": "1999",
+    "Director": "M. Night Shyamalan",
+    "Rating": 8.1
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89a8",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": "1994",
+    "Director": "Robert Zemeckis",
+    "Rating": 8.8
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89ab",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": "1939",
+    "Director": "Victor Fleming",
+    "Rating": 8.1
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89ac",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": "2004",
+    "Director": "Michel Gondry",
+    "Rating": 8.3
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89b0",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": "2018",
+    "Director": "Peter Farrelly",
+    "Rating": 8.2
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89b5",
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": 1993,
+    "Director": "Steven Spielberg",
+    "Rating": 8.9
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89b6",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 8.8
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89b9",
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Frank Darabont",
+    "Rating": 9.3
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89bc",
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "David Fincher",
+    "Rating": 8.8
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89c2",
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": 2010,
+    "Director": "David Fincher",
+    "Rating": 7.7
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89c5",
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": 2013,
+    "Director": "Baz Luhrmann",
+    "Rating": 7.2
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89c9",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 8.8
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89cf",
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": 1942,
+    "Director": "Michael Curtiz",
+    "Rating": 8.5
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89d1",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 8.8
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89da",
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "M. Night Shyamalan",
+    "Rating": 8.1
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89db",
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 8.8
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89de",
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": 1939,
+    "Director": "Victor Fleming",
+    "Rating": 8.1
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89df",
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": 2004,
+    "Director": "Michel Gondry",
+    "Rating": 8.3
+  },
+  {
+    "_id": "65b14ea221ed3789b3ed89e3",
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": 2018,
+    "Director": "Peter Farrelly",
+    "Rating": 8.2
+  }
+]

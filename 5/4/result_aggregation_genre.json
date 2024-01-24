@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "Action",
+    "avgRating": 9.5515625
+  },
+  {
+    "_id": "Sci-Fi",
+    "avgRating": 9.658823529411764
+  },
+  {
+    "_id": "Crime",
+    "avgRating": 9.621875
+  },
+  {
+    "_id": "War",
+    "avgRating": 9.4
+  },
+  {
+    "_id": "Animation",
+    "avgRating": 9.6
+  },
+  {
+    "_id": "Adventure",
+    "avgRating": 9.35
+  },
+  {
+    "_id": "Western",
+    "avgRating": 9.5
+  },
+  {
+    "_id": "Romance",
+    "avgRating": 8.9
+  },
+  {
+    "_id": "Thriller",
+    "avgRating": 9.7
+  },
+  {
+    "_id": "Musical",
+    "avgRating": 9.1
+  },
+  {
+    "_id": "Biography",
+    "avgRating": 9.4
+  },
+  {
+    "_id": "Comedy",
+    "avgRating": 9.25
+  },
+  {
+    "_id": "Horror",
+    "avgRating": 9.5
+  },
+  {
+    "_id": "Drama",
+    "avgRating": 9.55
+  }
+]

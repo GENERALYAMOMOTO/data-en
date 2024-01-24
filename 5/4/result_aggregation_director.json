@@ -1,0 +1,134 @@
+[
+  {
+    "_id": "Francis Ford Coppola",
+    "totalRating": 721.5
+  },
+  {
+    "_id": "Wes Anderson",
+    "totalRating": 138.0
+  },
+  {
+    "_id": "David Fincher",
+    "totalRating": 280.5
+  },
+  {
+    "_id": "Fernando Meirelles",
+    "totalRating": 145.5
+  },
+  {
+    "_id": "Martin Scorsese",
+    "totalRating": 283.5
+  },
+  {
+    "_id": "Jean-Pierre Jeunet",
+    "totalRating": 141.0
+  },
+  {
+    "_id": "James Cameron",
+    "totalRating": 416.5
+  },
+  {
+    "_id": "Peter Jackson",
+    "totalRating": 148.5
+  },
+  {
+    "_id": "Baz Luhrmann",
+    "totalRating": 124.5
+  },
+  {
+    "_id": "Ron Howard",
+    "totalRating": 139.5
+  },
+  {
+    "_id": "Peter Farrelly",
+    "totalRating": 139.5
+  },
+  {
+    "_id": "Alejandro González Iñárritu",
+    "totalRating": 136.5
+  },
+  {
+    "_id": "Steven Spielberg",
+    "totalRating": 288.0
+  },
+  {
+    "_id": "Roman Polanski",
+    "totalRating": 144.0
+  },
+  {
+    "_id": "Frank Darabont",
+    "totalRating": 301.5
+  },
+  {
+    "_id": "Quentin Tarantino",
+    "totalRating": 381.5
+  },
+  {
+    "_id": "Michael Curtiz",
+    "totalRating": 144.0
+  },
+  {
+    "_id": "Jonathan Demme",
+    "totalRating": 145.5
+  },
+  {
+    "_id": "Michel Gondry",
+    "totalRating": 141.0
+  },
+  {
+    "_id": "The Wachowskis",
+    "totalRating": 147.0
+  },
+  {
+    "_id": "Joel Coen",
+    "totalRating": 138.0
+  },
+  {
+    "_id": "Rob Reiner",
+    "totalRating": 138.0
+  },
+  {
+    "_id": "Christopher Nolan",
+    "totalRating": 52.0
+  },
+  {
+    "_id": "Robert Zemeckis",
+    "totalRating": 594.0
+  },
+  {
+    "_id": "Stanley Kubrick",
+    "totalRating": 283.5
+  },
+  {
+    "_id": "Roger Allers",
+    "totalRating": 144.0
+  },
+  {
+    "_id": "Ridley Scott",
+    "totalRating": 150.5
+  },
+  {
+    "_id": "Joss Whedon",
+    "totalRating": 143.0
+  },
+  {
+    "_id": "Damien Chazelle",
+    "totalRating": 136.5
+  },
+  {
+    "_id": "Victor Fleming",
+    "totalRating": 138.0
+  },
+  {
+    "_id": "Peter Weir",
+    "totalRating": 138.0
+  },
+  {
+    "_id": "Bryan Singer",
+    "totalRating": 144.0
+  },
+  {
+    "_id": "M. Night Shyamalan",
+    "totalRating": 138.0
+  }
+]

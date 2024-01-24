@@ -1,0 +1,359 @@
+[
+  {
+    "Title": "The Godfather",
+    "Genre": "Crime",
+    "Year": 1972,
+    "Director": "Francis Ford Coppola",
+    "Rating": 9.2
+  },
+  {
+    "Title": "Schindler's List",
+    "Genre": "Drama",
+    "Year": 1993,
+    "Director": "Steven Spielberg",
+    "Rating": 8.9
+  },
+  {
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 8.8
+  },
+  {
+    "Title": "The Matrix",
+    "Genre": "Sci-Fi",
+    "Year": 1999,
+    "Director": "The Wachowskis",
+    "Rating": 8.7
+  },
+  {
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Genre": "Adventure",
+    "Year": 2001,
+    "Director": "Peter Jackson",
+    "Rating": 8.8
+  },
+  {
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Frank Darabont",
+    "Rating": 9.3
+  },
+  {
+    "Title": "The Dark Knight",
+    "Genre": "Action",
+    "Year": 2008,
+    "Director": "Christopher Nolan",
+    "Rating": 9.0
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Genre": "Crime",
+    "Year": 1994,
+    "Director": "Quentin Tarantino",
+    "Rating": 8.9
+  },
+  {
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "David Fincher",
+    "Rating": 8.8
+  },
+  {
+    "Title": "The Silence of the Lambs",
+    "Genre": "Thriller",
+    "Year": 1991,
+    "Director": "Jonathan Demme",
+    "Rating": 8.6
+  },
+  {
+    "Title": "Titanic",
+    "Genre": "Romance",
+    "Year": 1997,
+    "Director": "James Cameron",
+    "Rating": 7.8
+  },
+  {
+    "Title": "Avatar",
+    "Genre": "Action",
+    "Year": 2009,
+    "Director": "James Cameron",
+    "Rating": 7.8
+  },
+  {
+    "Title": "The Shining",
+    "Genre": "Horror",
+    "Year": 1980,
+    "Director": "Stanley Kubrick",
+    "Rating": 8.4
+  },
+  {
+    "Title": "Jurassic Park",
+    "Genre": "Adventure",
+    "Year": 1993,
+    "Director": "Steven Spielberg",
+    "Rating": 8.1
+  },
+  {
+    "Title": "The Social Network",
+    "Genre": "Drama",
+    "Year": 2010,
+    "Director": "David Fincher",
+    "Rating": 7.7
+  },
+  {
+    "Title": "Inglourious Basterds",
+    "Genre": "War",
+    "Year": 2009,
+    "Director": "Quentin Tarantino",
+    "Rating": 8.3
+  },
+  {
+    "Title": "The Departed",
+    "Genre": "Crime",
+    "Year": 2006,
+    "Director": "Martin Scorsese",
+    "Rating": 8.5
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Genre": "Drama",
+    "Year": 2013,
+    "Director": "Baz Luhrmann",
+    "Rating": 7.2
+  },
+  {
+    "Title": "The Revenant",
+    "Genre": "Adventure",
+    "Year": 2015,
+    "Director": "Alejandro González Iñárritu",
+    "Rating": 8.0
+  },
+  {
+    "Title": "The Green Mile",
+    "Genre": "Crime",
+    "Year": 1999,
+    "Director": "Frank Darabont",
+    "Rating": 8.6
+  },
+  {
+    "Title": "The Grand Budapest Hotel",
+    "Genre": "Comedy",
+    "Year": 2014,
+    "Director": "Wes Anderson",
+    "Rating": 8.1
+  },
+  {
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 8.8
+  },
+  {
+    "Title": "La La Land",
+    "Genre": "Musical",
+    "Year": 2016,
+    "Director": "Damien Chazelle",
+    "Rating": 8.0
+  },
+  {
+    "Title": "The Godfather: Part II",
+    "Genre": "Crime",
+    "Year": 1974,
+    "Director": "Francis Ford Coppola",
+    "Rating": 9.0
+  },
+  {
+    "Title": "The Usual Suspects",
+    "Genre": "Crime",
+    "Year": 1995,
+    "Director": "Bryan Singer",
+    "Rating": 8.5
+  },
+  {
+    "Title": "The Pianist",
+    "Genre": "Biography",
+    "Year": 2002,
+    "Director": "Roman Polanski",
+    "Rating": 8.5
+  },
+  {
+    "Title": "The Princess Bride",
+    "Genre": "Adventure",
+    "Year": 1987,
+    "Director": "Rob Reiner",
+    "Rating": 8.1
+  },
+  {
+    "Title": "Casablanca",
+    "Genre": "Drama",
+    "Year": 1942,
+    "Director": "Michael Curtiz",
+    "Rating": 8.5
+  },
+  {
+    "Title": "City of God",
+    "Genre": "Crime",
+    "Year": 2002,
+    "Director": "Fernando Meirelles",
+    "Rating": 8.6
+  },
+  {
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 8.8
+  },
+  {
+    "Title": "The Lion King",
+    "Genre": "Animation",
+    "Year": 1994,
+    "Director": "Roger Allers",
+    "Rating": 8.5
+  },
+  {
+    "Title": "The Godfather: Part III",
+    "Genre": "Crime",
+    "Year": 1990,
+    "Director": "Francis Ford Coppola",
+    "Rating": 7.6
+  },
+  {
+    "Title": "Interstellar",
+    "Genre": "Sci-Fi",
+    "Year": 2014,
+    "Director": "Christopher Nolan",
+    "Rating": 8.6
+  },
+  {
+    "Title": "The Wolf of Wall Street",
+    "Genre": "Biography",
+    "Year": 2013,
+    "Director": "Martin Scorsese",
+    "Rating": 8.2
+  },
+  {
+    "Title": "Django Unchained",
+    "Genre": "Western",
+    "Year": 2012,
+    "Director": "Quentin Tarantino",
+    "Rating": 8.4
+  },
+  {
+    "Title": "The Truman Show",
+    "Genre": "Comedy",
+    "Year": 1998,
+    "Director": "Peter Weir",
+    "Rating": 8.1
+  },
+  {
+    "Title": "A Beautiful Mind",
+    "Genre": "Biography",
+    "Year": 2001,
+    "Director": "Ron Howard",
+    "Rating": 8.2
+  },
+  {
+    "Title": "The Terminator",
+    "Genre": "Action",
+    "Year": 1984,
+    "Director": "James Cameron",
+    "Rating": 8.0
+  },
+  {
+    "Title": "The Sixth Sense",
+    "Genre": "Drama",
+    "Year": 1999,
+    "Director": "M. Night Shyamalan",
+    "Rating": 8.1
+  },
+  {
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Rating": 8.8
+  },
+  {
+    "Title": "Amélie",
+    "Genre": "Comedy",
+    "Year": 2001,
+    "Director": "Jean-Pierre Jeunet",
+    "Rating": 8.3
+  },
+  {
+    "Title": "The Godfather",
+    "Genre": "Crime",
+    "Year": 1972,
+    "Director": "Francis Ford Coppola",
+    "Rating": 9.2
+  },
+  {
+    "Title": "Gone with the Wind",
+    "Genre": "Drama",
+    "Year": 1939,
+    "Director": "Victor Fleming",
+    "Rating": 8.1
+  },
+  {
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Genre": "Drama",
+    "Year": 2004,
+    "Director": "Michel Gondry",
+    "Rating": 8.3
+  },
+  {
+    "Title": "Gladiator",
+    "Genre": "Action",
+    "Year": 2000,
+    "Director": "Ridley Scott",
+    "Rating": 8.5
+  },
+  {
+    "Title": "The Dark Knight Rises",
+    "Genre": "Action",
+    "Year": 2012,
+    "Director": "Christopher Nolan",
+    "Rating": 8.4
+  },
+  {
+    "Title": "The Godfather: Part III",
+    "Genre": "Crime",
+    "Year": 1990,
+    "Director": "Francis Ford Coppola",
+    "Rating": 7.6
+  },
+  {
+    "Title": "The Green Book",
+    "Genre": "Drama",
+    "Year": 2018,
+    "Director": "Peter Farrelly",
+    "Rating": 8.2
+  },
+  {
+    "Title": "The Avengers",
+    "Genre": "Action",
+    "Year": 2012,
+    "Director": "Joss Whedon",
+    "Rating": 8.0
+  },
+  {
+    "Title": "The Big Lebowski",
+    "Genre": "Comedy",
+    "Year": 1998,
+    "Director": "Joel Coen",
+    "Rating": 8.1
+  },
+  {
+    "Title": "A Clockwork Orange",
+    "Genre": "Crime",
+    "Year": 1971,
+    "Director": "Stanley Kubrick",
+    "Rating": 8.3
+  }
+]
